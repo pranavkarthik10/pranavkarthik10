@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">14 | WWDC19, 20 Scholar | GCI'19 Grand Prize Winner | iOS Developer</h3>
+<h3 align="center">15 | WWDC19, 20 Scholar | GCI'19 Grand Prize Winner | iOS Developer</h3>
 
 - 🔭 I’m currently working on [Trackr](http://trackr.pranavkarthik.me/)
 
