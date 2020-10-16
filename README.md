@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on [Discord SwiftUI](https://github.com/pranavkarthik10/DiscordSwfitUI)
 
-- 👨‍💻 All of my projects are available at [pranavkarthik.me](pranavkarthik.me)
+- 👨‍💻 All of my projects are available at [pranavkarthik.me](https://pranavkarthik.me)
 
-- 📝 I sometimes write articles on [blog.pranavkarthik.me](blog.pranavkarthik.me)
+- 📝 I sometimes write articles on [blog.pranavkarthik.me](https://blog.pranavkarthik.me)
 
 - 💬 Ask me about **swift, ios dev, tech,**
 
