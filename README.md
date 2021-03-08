@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **swift, ios dev, tech,**
 
-- 📫 How to reach me **pranav.karthik10@gmail.com**
+- 📫 Reach me via [Twitter!](https://twitter.com/code_pranav) 
 
 - ⚡ Fun fact **I've met Tim Cook via online meeting**
 
