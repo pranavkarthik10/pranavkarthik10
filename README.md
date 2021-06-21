@@ -1,42 +1,26 @@
-<h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">15 | WWDC19, 20 Scholar | GCI'19 Grand Prize Winner | iOS Developer</h3>
+<h1 align="center">What's poppin, I'm Pranav</h1>
+<h3 align="center">A passionate Swift developer from 🇨🇦</h3>
 
-- 🔭 I’m currently working on [Trackr](http://trackr.pranavkarthik.me/)
+<p align="left"> <a href="https://twitter.com/code_pranav" target="blank"><img src="https://img.shields.io/twitter/follow/code_pranav?logo=twitter&style=for-the-badge" alt="code_pranav" /></a> </p>
 
-- 🌱 I’m currently learning **SwiftUI, ARKit,**
+- 🔭 I’m currently working on **Studies 📚.**
 
-- 👯 I’m looking to collaborate on [Discord SwiftUI](https://github.com/pranavkarthik10/DiscordSwfitUI)
+- 🌱 I’m currently learning **React, Flutter, GraphQL**
 
-- 👨‍💻 All of my projects are available at [pranavkarthik.me](https://pranavkarthik.me)
+- 👨‍💻 Learn more about me [https://pranavkarthik.me/](https://pranavkarthik.me/)
 
-- 📝 I sometimes write articles on [blog.pranavkarthik.me](https://blog.pranavkarthik.me)
+- 💬 Ask me about **Swift, SwiftUI, and Python**
 
-- 💬 Ask me about **swift, ios dev, tech,**
+- ⚡ Fun fact **I've met Tim Cook via virtual conference!**
 
-- 📫 Reach me via [Twitter!](https://twitter.com/code_pranav) 
-
-- ⚡ Fun fact **I've met Tim Cook via online meeting**
-
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pranavkarthik10&show_icons=true" alt="pranavkarthik10" /> </p>
-
-<p align="center">
-<a href="https://twitter.com/code_pranav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="code_pranav" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/pranav-karthik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranav-karthik" height="20" width="20" /></a>
-<a href="https://instagram.com/thepranavk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thepranavk" height="20" width="20" /></a>
-<a href="https://www.youtube.com/c/pranavkarthik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pranavkarthik" height="20" width="20" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/code_pranav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="code_pranav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pranav-karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-karthik" height="30" width="40" /></a>
 </p>
 
-<!--
-**pranavkarthik10/pranavkarthik10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-Here are some ideas to get you started:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkarthik10&show_icons=true&locale=en" alt="pranavkarthik10" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
