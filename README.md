@@ -1,4 +1,4 @@
-<h1 align="center">What's poppin, I'm Pranav</h1>
+<h1 align="center">👋 Hey there, I'm Pranav</h1>
 <h3 align="center">A passionate Swift developer from 🇨🇦</h3>
 
 <p align="left"> <a href="https://twitter.com/code_pranav" target="blank"><img src="https://img.shields.io/twitter/follow/code_pranav?logo=twitter&style=for-the-badge" alt="code_pranav" /></a> </p>
